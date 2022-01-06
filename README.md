@@ -16,7 +16,7 @@ The bot is hosted in IBM Cloud. Hence the `manifest.yml` and `Procfile`  were ad
 
 ```
 [BOTINFO]
-usid = < add your username here >
+usid = < add your user ID here >
 token = < add bot token obtained from botfather in Telegram >
 ```
 
@@ -25,7 +25,7 @@ token = < add bot token obtained from botfather in Telegram >
 
 3. Run the bot using `python3 bot.py` 
 
-
+4. Start the bot from your account.
 
 
 
