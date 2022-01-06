@@ -8,7 +8,7 @@ The bot is hosted in IBM Cloud. Hence the `manifest.yml` and `Procfile`  were ad
 
 ### How to use the bot
 
- 
+ ![](latex.GIF)
 
 ### How to fork and use the bot for yourself
 
