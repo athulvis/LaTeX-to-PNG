@@ -4,7 +4,7 @@ This bot works inline in personal as well as group chats to convert LaTeX equati
 
 You can access the bot using https://t.me/latexpngbot
 
-The bot is hosted in IBM Cloud. Hence the manifest.yml and Procfile added to this repo.
+The bot is hosted in IBM Cloud. Hence the `manifest.yml` and `Procfile`  were added to this repo.
 
 ### How to use the bot
 
@@ -14,9 +14,11 @@ The bot is hosted in IBM Cloud. Hence the manifest.yml and Procfile added to thi
 
 1. Fork the repo. Add `config.ini` with following content.
 
+```
 [BOTINFO]
 usid = < add your username here >
 token = < add bot token obtained from botfather in Telegram >
+```
 
 2. Install the dependencies from requirements.txt
 	`pip3 install -r requirements.txt`
